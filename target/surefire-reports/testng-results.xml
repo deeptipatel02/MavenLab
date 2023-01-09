@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T10:36:34 EST" name="Suite" finished-at="2023-01-04T10:36:55 EST" duration-ms="20064">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T10:36:34 EST" name="Test" finished-at="2023-01-04T10:36:55 EST" duration-ms="20064">
+      <class name="Project001.MavenLab.DragAndDrop">
+        <test-method signature="dragdrop()[pri:0, instance:Project001.MavenLab.DragAndDrop@4a325eb9]" started-at="2023-01-04T10:36:39 EST" name="dragdrop" finished-at="2023-01-04T10:36:47 EST" duration-ms="8394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdrop -->
+      </class> <!-- Project001.MavenLab.DragAndDrop -->
+      <class name="Project001.MavenLab.SwitchingWindows">
+        <test-method signature="switchingwindows()[pri:0, instance:Project001.MavenLab.SwitchingWindows@1d8e2eea]" started-at="2023-01-04T10:36:35 EST" name="switchingwindows" finished-at="2023-01-04T10:36:39 EST" duration-ms="4291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchingwindows -->
+      </class> <!-- Project001.MavenLab.SwitchingWindows -->
+      <class name="Project001.MavenLab.HandlingCaptcha">
+        <test-method signature="handlingcaptcha()[pri:0, instance:Project001.MavenLab.HandlingCaptcha@57f64f5e]" started-at="2023-01-04T10:36:52 EST" name="handlingcaptcha" finished-at="2023-01-04T10:36:55 EST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingcaptcha -->
+      </class> <!-- Project001.MavenLab.HandlingCaptcha -->
+      <class name="Project001.MavenLab.HandlingRadioButton">
+        <test-method signature="handlingradio()[pri:0, instance:Project001.MavenLab.HandlingRadioButton@3dedb4a6]" started-at="2023-01-04T10:36:47 EST" name="handlingradio" finished-at="2023-01-04T10:36:52 EST" duration-ms="4600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingradio -->
+      </class> <!-- Project001.MavenLab.HandlingRadioButton -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

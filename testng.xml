@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Project001.MavenLab.SwitchingWindows"/>
+      <class name="Project001.MavenLab.DragAndDrop"/>
+      <class name="Project001.MavenLab.HandlingRadioButton"/>
+      <class name="Project001.MavenLab.HandlingCaptcha"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
